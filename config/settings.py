@@ -19,6 +19,9 @@ ALLOWED_HOSTS = ['*']
 
 AUTH_USER_MODEL = 'users.User'
 # Application definition
+CSRF_TRUSTED_ORIGINS = [
+    "https://conference-ytmg.onrender.com",
+]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
