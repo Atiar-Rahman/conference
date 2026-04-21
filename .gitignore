@@ -1,6 +1,6 @@
 env/
 __pycache__/
 .env
-
+db.sqlite3
 
 iicsd-2027.json
