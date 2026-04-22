@@ -64,7 +64,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://192.168.0.113:3000",
     "https://conference.zensoftlab.com",
-    "https://conference-ytmg.onrender.com"
+    
 ]
 
 TEMPLATES = [
